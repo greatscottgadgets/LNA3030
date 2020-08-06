@@ -44,3 +44,6 @@ bands.
 
 frequency band | U4 part number       | L1-L4 part number | C1-C8 part number
 ---------------|----------------------|-------------------|-------------------
+314-315 MHz    | B39321B3722U410      | HK1005R27J-T      | GCM1555C1H681JA16D
+430-435 MHz    | B39431B3710U410      | HK1005R27J-T      | GCM155R71H471KA37D
+868-870 MHz    | SF2415E              | HK1005R10J-T      | GCM1555C1H470JA16D
