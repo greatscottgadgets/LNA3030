@@ -42,7 +42,7 @@ PCBs of this specification are available from JLCPCB (JLC7628 4-layer 0.8 mm sta
 LNA3030 may be populated with different components to support various frequency
 bands.
 
-frequency band | U4 part number       | L1-L4 part number | C1-C8 part number
+frequency band | U4 part number       | L1-L4 part number | C1-C6 part number
 ---------------|----------------------|-------------------|-------------------
 314-315 MHz    | B39321B3722U410      | HK1005R27J-T      | GCM1555C1H681JA16D
 430-435 MHz    | B39431B3710U410      | HK1005R27J-T      | GCM155R71H471KA37D
